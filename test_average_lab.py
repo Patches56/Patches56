@@ -1,4 +1,4 @@
-##Jairo Gutierrez Inro to python 115
+##Patches56
 ##Test Average and grade   
 def main():
     
