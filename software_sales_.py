@@ -1,4 +1,4 @@
-##Patches56
+##Jairo Gutierrez CIS 115 Intro to python
 ##Software Sales 
 price_per_package = 99.99
 discount_amount =0
