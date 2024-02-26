@@ -1,5 +1,3 @@
-##Assigment-1C
-
 ##Program Name: Grade_and_Test_score
 
 ##Purpose: The purpose of the program is to prompt user to enter name followed by five test scores. The program should display a letter grade for each score and the average test score.
