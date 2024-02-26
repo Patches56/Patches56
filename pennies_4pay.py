@@ -1,4 +1,4 @@
-##Jairo Gutierrez Introduction to python 115
+##Patches56
 ## Pennies for Pay
 pay_per_day = 0.01
 total_salary = 0
