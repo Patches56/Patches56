@@ -1,14 +1,10 @@
 #------------------------------------------------------------
-#Assignment:   Assignment 5C
 #
-#Program Name: Assignment_5C.rb
 #
 #
 #Purpose:      Create a program displaying a question and asking the user to answer it. At the end calculate how many he got right and display it.
 #
 #
-#Author:       Jairo Gutierrez
-#Course:       CIS109 Spring 2024
 #
 #
 #Created:      February 25, 2024
