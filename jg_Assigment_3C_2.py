@@ -1,12 +1,12 @@
 #---------------------------------------------------------------------------#
-#Asiignment: Assignment 3C
-#
-#Purpose:
 #
 #
+#Purpose: Rename files
 #
-#Author:     Jairo Gutierrez
-#Course:     CIS109.950
+#
+#
+#Author:     Patches56
+#
 #
 #Created:    2/11/2024
 #----------------------------------------------------------------------------#
