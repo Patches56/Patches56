@@ -1,13 +1,12 @@
 #----------------------------------------------------------------------#
-#Assignement:   Assignement 4C
+#
 #Program Name:  Hummingbird Cake 
 #
 #
 #Purose: How To Make a Hummingbird Cake
 #
 #
-#Author:         Jairo Gutierrez
-#Course:         CIS109 - Fall 2024
+#
 #
 #
 #Created:        February 18, 2024
