@@ -1,12 +1,10 @@
 ##Assigment-1C
 
-##Program Name: jg_Assigment_1C.py
+##Program Name: Grade_and_Test_score
 
 ##Purpose: The purpose of the program is to prompt user to enter name followed by five test scores. The program should display a letter grade for each score and the average test score.
 
-##Author:
-
-##Course: Introduction to scripting CIS.109
+##Author: Patches56
 
 ##Created January 27, 2024
 
