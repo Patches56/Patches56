@@ -1,4 +1,4 @@
-#maya t. week 6, example 6
+#Patches56
 #Data validation
 
 user_pw= input("Enter password: ")
